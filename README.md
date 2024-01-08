@@ -11,4 +11,4 @@ Check out this online example of the Vue Kanban component: https://ej2.syncfusio
 Make sure you have the latest versions of Node.js and Visual Studio Code on your machine before working with this project.
 
 ## How to run this application
-To run this application, you need to clone the how-to-customize-the-vue-kanban-component-using-templates repository and then open it in Visual Studio Code. After that, just install all the necessary Vue packages in your project using the npm install command and run your project using the npm run dev command.
+To run this application, you need to clone the `how-to-customize-the-vue-kanban-component-using-templates` repository and then open it in Visual Studio Code. After that, just install all the necessary Vue packages in your project using the `npm install` command and run your project using the npm run dev command.
