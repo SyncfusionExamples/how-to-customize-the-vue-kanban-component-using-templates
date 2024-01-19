@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to customize the [Vue Kanban]( https://www.syncfusion.com/vue-components/vue-kanban-board?utm_source=github&utm_medium=listing&utm_campaign=vue-kanban-templates-github-samples) component using templates. It includes a code snippet for customizing Kanban headers, swimlane headers, and card content.
 
-Watch the video: Coming soon...
+Watch the video: [https://www.syncfusion.com/tutorial-videos/vue/kanban-board?title=how-to-customize-the-vue-kanban-component-using-templates](https://www.syncfusion.com/tutorial-videos/vue/kanban-board?title=how-to-customize-the-vue-kanban-component-using-templates)
 
 Refer to the following documentation to learn about the Vue Kanban component: https://ej2.syncfusion.com/vue/documentation/kanban/getting-started-page
 
